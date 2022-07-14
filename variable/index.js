@@ -20,3 +20,16 @@ console.log(score);
 console.log(host);
 
 var host;
+
+var score;
+console.log(score);
+score = 80;
+console.log(score);
+var score;
+console.log(score);
+
+// 재할당
+
+var score = 80;
+score = 90;
+console.log(score);
